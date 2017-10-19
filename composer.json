@@ -10,6 +10,6 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=5.3.0",
-		"ahmedsaoud31/payfort-php": "1.0", 
+		"ahmedsaoud31/payfort-php": "1.0"
 	}
 }
