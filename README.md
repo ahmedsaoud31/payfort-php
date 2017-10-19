@@ -14,14 +14,14 @@ go to `path/to/config.php` to set all API configuration.
 ### With Composer
 
 ```
-$ composer require ahmedsaoud31/payfort-php
+$ composer require ahmedsaoud31/payfort-php dev-master
 ```
 or
 
 ```json
 {
     "require": {
-        "ahmedsaoud31/payfort-php": "~1.0"
+        "ahmedsaoud31/payfort-php": "dev-master"
     }
 }
 ```
