@@ -1,11 +1,9 @@
-# Payfort
+# payfort-php
+Payfort php Library for Merchant Page 2.0
 
 [![Latest Stable Version](https://poser.pugx.org/ahmedsaoud31/payfort-php/v/stable.png)](https://packagist.org/packages/ahmedsaoud31/payfort-php)
 [![Total Downloads](https://poser.pugx.org/ahmedsaoud31/payfort-php/downloads.png)](https://packagist.org/packages/ahmedsaoud31/payfort-php)
 [![License](https://poser.pugx.org/ahmedsaoud31/payfort-php/license.svg)](https://packagist.org/packages/ahmedsaoud31/payfort-php)
-
-### payfort-php
-Payfort php Library for Merchant Page 2.0
 
 ### Configuration
 
@@ -18,6 +16,7 @@ go to `path/to/config.php` to set all API configuration.
 ```
 $ composer require ahmedsaoud31/payfort-php
 ```
+or
 
 ```json
 {
@@ -26,6 +25,7 @@ $ composer require ahmedsaoud31/payfort-php
     }
 }
 ```
+use
 
 ```php
 <?php
@@ -36,7 +36,6 @@ use Payfort\Payfort;
 $payfort = new Payfort;
 ```
 
-<a name="install-nocomposer"/>
 ### Without Composer
 
 ```php
@@ -48,6 +47,6 @@ use Payfort\Payfort;
 $payfort = new Payfort;
 ```
 
-## Docs
+## Payfort Merchant Page 2.0 Docs
 
 [https://testfort.payfort.com/api/docs/merchant-page-two/build/index.html](https://testfort.payfort.com/api/docs/merchant-page-two/build/index.html)
