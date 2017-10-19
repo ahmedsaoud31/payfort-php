@@ -1,8 +1,11 @@
-# Carbon
+# Payfort
 
 [![Latest Stable Version](https://poser.pugx.org/ahmedsaoud31/payfort-php/v/stable.png)](https://packagist.org/packages/ahmedsaoud31/payfort-php)
 [![Total Downloads](https://poser.pugx.org/ahmedsaoud31/payfort-php/downloads.png)](https://packagist.org/packages/ahmedsaoud31/payfort-php)
 [![License](https://poser.pugx.org/ahmedsaoud31/payfort-php/license.svg)](https://packagist.org/packages/ahmedsaoud31/payfort-php)
+
+### payfort-php
+Payfort php Library for Merchant Page 2.0
 
 ### Configuration
 
