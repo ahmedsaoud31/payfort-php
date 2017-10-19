@@ -6,7 +6,7 @@
 		"psr-0":{
 			"Payfort": "src/"
 		}
-	}
+	},
 	"license": "MIT",
 	"require": {
 		"php": ">=5.3.0"
