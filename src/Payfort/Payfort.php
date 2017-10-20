@@ -4,29 +4,33 @@ namespace Payfort;
 
 class Payfort
 {
-	/*
-	* This config var to save all Payfort sittings
-	* This configration settings load from config file in the same directory
-	* @var object
-	*/
+	/** 
+	 * Save all Payfort sittings.
+	 * This configration settings load from config file in the same directory.
+	 *
+	 * @var object
+	 */
 	private $config;
 	
-	/*
-	* This liveMode var to save account status
-	* @var string
-	*/
+	/** 
+	 * Save account status.
+	 *
+	 * @var string
+	 */
 	public $liveMode;	
 	
-	/*
-	* This host var to save host link
-	* @var string
-	*/
+	/** 
+	 * Save host link.
+	 *
+	 * @var string
+	 */
 	public $host;
 	
-	/*
-	* This operationHost var to save operation host link
-	* @var string
-	*/
+	/** 
+	 * Save operation host link.
+	 *
+	 * @var string
+	 */
 	public $operationHost;
 	
 	/*
